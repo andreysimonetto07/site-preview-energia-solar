@@ -1,5 +1,9 @@
-# Preview Energia Solar — Zenfy
+# Preview Energia Solar — Agência
 
-Dois previews comerciais de landing page para o nicho **Energia Solar**.
+Dois previews comerciais de landing page para o nicho **energia solar e elétrica**.
 
-Criado pela Zenfy — Andrey Simoneto e Pedro Henrique.
+- `index.html` — Preview 01
+- `preview-2.html` — Preview 02
+- `vercel.json` — configuração para publicação
+
+Projeto demonstrativo da **Agência** — Andrey Simoneto e Pedro Henrique.
